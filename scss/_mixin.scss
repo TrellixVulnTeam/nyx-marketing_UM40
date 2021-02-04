@@ -1,0 +1,10 @@
+@mixin font-and-color {
+    color: $font-color;
+    font-family: $font-family;
+}
+
+@mixin section {
+    height: 20%;
+    padding: 50px;
+    margin: 50px;
+}
